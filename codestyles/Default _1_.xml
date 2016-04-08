@@ -1,0 +1,15 @@
+<code_scheme name="Default (1)">
+  <AndroidXmlCodeStyleSettings>
+    <option name="USE_CUSTOM_SETTINGS" value="true" />
+  </AndroidXmlCodeStyleSettings>
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+  </codeStyleSettings>
+</code_scheme>

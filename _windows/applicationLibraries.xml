@@ -1,0 +1,83 @@
+<application>
+  <component name="libraryTable">
+    <library name="cropper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_cropper_1.0.0_cropper.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_cropper_1.0.0_cropper.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="firebase" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_js_client_2.2.1_firebase.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.firebase.com_js_client_2.2.1_firebase.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.9.0" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.9.0_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.9.0_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.10 (C:\Programs\Python27\python.exe) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.11 (C:\Programs\Anaconda2\python.exe) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.11.7" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://C:/Programs/scala/lib/scala-compiler.jar" />
+          <root url="file://C:/Programs/scala/lib/scala-library.jar" />
+          <root url="file://C:/Programs/scala/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://C:/Programs/scala/lib/scala-actors-2.11.0.jar!/" />
+        <root url="jar://C:/Programs/scala/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+        <root url="jar://C:/Programs/scala/lib/scala-library.jar!/" />
+        <root url="jar://C:/Programs/scala/lib/scala-parser-combinators_2.11-1.0.4.jar!/" />
+        <root url="jar://C:/Programs/scala/lib/scala-reflect.jar!/" />
+        <root url="jar://C:/Programs/scala/lib/scala-swing_2.11-1.0.2.jar!/" />
+        <root url="jar://C:/Programs/scala/lib/scala-xml_2.11-1.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/Programs/scala/api/jars/scala-actors-2.11.0-javadoc.jar!/" />
+        <root url="jar://C:/Programs/scala/api/jars/scala-actors-migration_2.11-1.1.0-javadoc.jar!/" />
+        <root url="jar://C:/Programs/scala/api/jars/scala-library-2.11.7-javadoc.jar!/" />
+        <root url="jar://C:/Programs/scala/api/jars/scala-parser-combinators_2.11-1.0.4-javadoc.jar!/" />
+        <root url="jar://C:/Programs/scala/api/jars/scala-reflect-2.11.7-javadoc.jar!/" />
+        <root url="jar://C:/Programs/scala/api/jars/scala-swing_2.11-1.0.2-javadoc.jar!/" />
+        <root url="jar://C:/Programs/scala/api/jars/scala-xml_2.11-1.0.4-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>

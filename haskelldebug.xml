@@ -1,0 +1,6 @@
+<application>
+  <component name="HaskellDebugConfiguration">
+    <option name="debuggerType" value="GHCI" />
+    <option name="remoteDebuggerPath" value="C:\Users\user\AppData\Roaming\cabal\bin\remote-debugger.exe" />
+  </component>
+</application>

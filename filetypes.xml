@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping ext="mst" type="Handlebars/Mustache" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="bolt" type="PLAIN_TEXT" />
+      <mapping ext="y" type="PLAIN_TEXT" />
+      <mapping ext="ssm" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
