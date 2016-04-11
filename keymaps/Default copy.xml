@@ -17,6 +17,10 @@
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift alt r" />
