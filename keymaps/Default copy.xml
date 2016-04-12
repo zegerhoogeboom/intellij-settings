@@ -5,7 +5,6 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -27,6 +26,7 @@
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="HippieCompletion" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -64,6 +64,10 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
