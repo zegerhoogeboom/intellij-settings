@@ -69,6 +69,7 @@
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="alt dead_grave" />
+    <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
