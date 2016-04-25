@@ -69,7 +69,7 @@
         <entry key="chest" value="0.2.3" />
         <entry key="click" value="6.6" />
         <entry key="cligj" value="0.4.0" />
-        <entry key="cloudpickle" value="0.1.1" />
+        <entry key="cloudpickle" value="0.2.1" />
         <entry key="clyent" value="1.2.2" />
         <entry key="cmake" value="3.3.1" />
         <entry key="colander" value="1.2" />
@@ -77,7 +77,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.0.5" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="1.20.0" />
+        <entry key="conda-build" value="1.20.1" />
         <entry key="conda-env" value="2.4.5" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
@@ -110,7 +110,7 @@
         <entry key="decorator" value="4.0.9" />
         <entry key="dill" value="0.2.5" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.9.4" />
+        <entry key="distributed" value="1.9.5" />
         <entry key="django" value="1.9.5" />
         <entry key="dnspython" value="1.12.0" />
         <entry key="docopt" value="0.6.2" />
@@ -150,6 +150,7 @@
         <entry key="gdata" value="2.0.18" />
         <entry key="gensim" value="0.12.4" />
         <entry key="geos" value="3.4.2" />
+        <entry key="get_terminal_size" value="1.0.0" />
         <entry key="gevent" value="1.1.1" />
         <entry key="gevent-websocket" value="0.9.5" />
         <entry key="gevent_zeromq" value="0.2.5" />
@@ -177,7 +178,7 @@
         <entry key="ipaddress" value="1.0.16" />
         <entry key="ipykernel" value="4.3.1" />
         <entry key="ipyparallel" value="5.0.1" />
-        <entry key="ipython" value="4.1.2" />
+        <entry key="ipython" value="4.2.0" />
         <entry key="ipython-notebook" value="4.0.4" />
         <entry key="ipython-qtconsole" value="4.0.1" />
         <entry key="ipython_genutils" value="0.1.0" />
@@ -278,7 +279,7 @@
         <entry key="networkx" value="1.11" />
         <entry key="nltk" value="3.2.1" />
         <entry key="node-webkit" value="0.10.1" />
-        <entry key="nodejs" value="4.2.6" />
+        <entry key="nodejs" value="4.4.1" />
         <entry key="nose" value="1.3.7" />
         <entry key="notebook" value="4.2.0" />
         <entry key="nsis" value="2.46" />
@@ -1258,6 +1259,7 @@
             <list>
               <option value="0.1.1" />
               <option value="0.1.0" />
+              <option value="0.2.1" />
             </list>
           </value>
         </entry>
@@ -1475,6 +1477,7 @@
               <option value="1.19.1" />
               <option value="1.19.2" />
               <option value="1.20.0" />
+              <option value="1.20.1" />
             </list>
           </value>
         </entry>
@@ -1831,6 +1834,7 @@
               <option value="1.9.1" />
               <option value="1.9.2" />
               <option value="1.9.4" />
+              <option value="1.9.5" />
             </list>
           </value>
         </entry>
@@ -2197,6 +2201,13 @@
             </list>
           </value>
         </entry>
+        <entry key="get_terminal_size">
+          <value>
+            <list>
+              <option value="1.0.0" />
+            </list>
+          </value>
+        </entry>
         <entry key="gevent">
           <value>
             <list>
@@ -2492,6 +2503,7 @@
               <option value="4.1.1" />
               <option value="2.4.1" />
               <option value="4.1.2" />
+              <option value="4.2.0" />
             </list>
           </value>
         </entry>
@@ -3436,6 +3448,7 @@
           <value>
             <list>
               <option value="4.2.6" />
+              <option value="4.4.1" />
             </list>
           </value>
         </entry>
@@ -5722,6 +5735,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1461222441679" />
+    <option name="LAST_TIME_CHECKED" value="1461587264847" />
   </component>
 </application>
