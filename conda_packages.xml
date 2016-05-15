@@ -77,7 +77,7 @@
         <entry key="comtypes" value="1.1.2" />
         <entry key="conda" value="4.0.6" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="1.20.1" />
+        <entry key="conda-build" value="1.20.2" />
         <entry key="conda-env" value="2.4.5" />
         <entry key="conda-manager" value="0.4.0" />
         <entry key="conda-server" value="0.14.0" />
@@ -248,7 +248,7 @@
         <entry key="meta" value="0.4.2.dev" />
         <entry key="mingw" value="4.7" />
         <entry key="mistune" value="0.7.2" />
-        <entry key="mkl" value="11.3.1" />
+        <entry key="mkl" value="11.3.3" />
         <entry key="mkl-rt" value="11.1" />
         <entry key="mkl-service" value="1.1.2" />
         <entry key="mklfft" value="2.1" />
@@ -406,7 +406,7 @@
         <entry key="scikit-learn" value="0.17.1" />
         <entry key="scikit-rf" value="0.14.1" />
         <entry key="scikits-image" value="0.7.1" />
-        <entry key="scipy" value="0.17.0" />
+        <entry key="scipy" value="0.17.1" />
         <entry key="scons" value="2.3.0" />
         <entry key="scrapy" value="1.0.3" />
         <entry key="seaborn" value="0.7.0" />
@@ -1483,6 +1483,7 @@
               <option value="1.19.2" />
               <option value="1.20.0" />
               <option value="1.20.1" />
+              <option value="1.20.2" />
             </list>
           </value>
         </entry>
@@ -3197,6 +3198,7 @@
               <option value="11.0" />
               <option value="11.1" />
               <option value="11.3.1" />
+              <option value="11.3.3" />
             </list>
           </value>
         </entry>
@@ -4839,6 +4841,7 @@
               <option value="0.17.0" />
               <option value="0.12.0" />
               <option value="0.13.0" />
+              <option value="0.17.1" />
             </list>
           </value>
         </entry>
@@ -5757,6 +5760,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1463147288083" />
+    <option name="LAST_TIME_CHECKED" value="1463328994727" />
   </component>
 </application>
