@@ -101,7 +101,7 @@
         <entry key="cx_oracle" value="5.2" />
         <entry key="cycler" value="0.10.0" />
         <entry key="cython" value="0.24" />
-        <entry key="cytoolz" value="0.7.5" />
+        <entry key="cytoolz" value="0.8.0" />
         <entry key="dask" value="0.9.0" />
         <entry key="datashader" value="0.2.0" />
         <entry key="datashape" value="0.5.2" />
@@ -216,7 +216,7 @@
         <entry key="libgdal" value="2.0.0" />
         <entry key="libnetcdf" value="4.3.3.1" />
         <entry key="libnvvm" value="1.0" />
-        <entry key="libpng" value="1.6.17" />
+        <entry key="libpng" value="1.6.22" />
         <entry key="libpython" value="1.0" />
         <entry key="libsodium" value="1.0.3" />
         <entry key="libtiff" value="4.0.6" />
@@ -426,7 +426,7 @@
         <entry key="snakeviz" value="0.4.0" />
         <entry key="snowballstemmer" value="1.2.1" />
         <entry key="snuggs" value="1.3.1" />
-        <entry key="sockjs-tornado" value="1.0.1" />
+        <entry key="sockjs-tornado" value="1.0.3" />
         <entry key="sphinx" value="1.4.1" />
         <entry key="sphinx_rtd_theme" value="0.1.9" />
         <entry key="spyder" value="2.3.9" />
@@ -446,7 +446,7 @@
         <entry key="tempita" value="0.5.3" />
         <entry key="teradata" value="15.10.0.11" />
         <entry key="tk" value="8.5.18" />
-        <entry key="toolz" value="0.7.4" />
+        <entry key="toolz" value="0.8.0" />
         <entry key="tornado" value="4.3" />
         <entry key="traitlets" value="4.2.1" />
         <entry key="traits" value="4.5.0" />
@@ -480,15 +480,15 @@
         <entry key="whoosh" value="2.7.3" />
         <entry key="workerpool" value="0.9.4" />
         <entry key="wrapt" value="1.10.6" />
-        <entry key="wtforms" value="2.0.2" />
+        <entry key="wtforms" value="2.1" />
         <entry key="wxpython" value="3.0" />
         <entry key="xarray" value="0.7.2" />
         <entry key="xerces-c" value="3.1.2" />
-        <entry key="xlrd" value="0.9.4" />
+        <entry key="xlrd" value="1.0.0" />
         <entry key="xlsxwriter" value="0.8.7" />
         <entry key="xlutils" value="1.7.1" />
         <entry key="xlwings" value="0.7.2" />
-        <entry key="xlwt" value="1.0.0" />
+        <entry key="xlwt" value="1.1.1" />
         <entry key="xray" value="0.7.0" />
         <entry key="yaml" value="0.1.6" />
         <entry key="yt" value="3.2.1" />
@@ -1748,6 +1748,7 @@
               <option value="0.7.0" />
               <option value="0.7.4" />
               <option value="0.7.5" />
+              <option value="0.8.0" />
             </list>
           </value>
         </entry>
@@ -2880,6 +2881,7 @@
             <list>
               <option value="1.6.17" />
               <option value="1.5.13" />
+              <option value="1.6.22" />
             </list>
           </value>
         </entry>
@@ -5082,6 +5084,7 @@
             <list>
               <option value="1.0.1" />
               <option value="1.0.0" />
+              <option value="1.0.3" />
             </list>
           </value>
         </entry>
@@ -5309,6 +5312,7 @@
               <option value="0.7.0" />
               <option value="0.7.2" />
               <option value="0.7.4" />
+              <option value="0.8.0" />
             </list>
           </value>
         </entry>
@@ -5618,6 +5622,7 @@
           <value>
             <list>
               <option value="2.0.2" />
+              <option value="2.1" />
             </list>
           </value>
         </entry>
@@ -5652,6 +5657,7 @@
               <option value="0.9.4" />
               <option value="0.9.0" />
               <option value="0.9.1" />
+              <option value="1.0.0" />
             </list>
           </value>
         </entry>
@@ -5722,6 +5728,7 @@
               <option value="1.0.0" />
               <option value="0.7.4" />
               <option value="0.7.5" />
+              <option value="1.1.1" />
             </list>
           </value>
         </entry>
@@ -5811,6 +5818,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1464945657345" />
+    <option name="LAST_TIME_CHECKED" value="1465158255238" />
   </component>
 </application>
