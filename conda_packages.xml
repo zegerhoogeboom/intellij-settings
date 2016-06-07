@@ -61,7 +61,7 @@
         <entry key="cffi" value="1.6.0" />
         <entry key="chaco" value="4.5.0" />
         <entry key="chalmers" value="0.8.0" />
-        <entry key="chameleon" value="2.22" />
+        <entry key="chameleon" value="2.24" />
         <entry key="characteristic" value="14.3.0" />
         <entry key="chardet" value="2.3.0" />
         <entry key="cheetah" value="2.4.4" />
@@ -76,7 +76,7 @@
         <entry key="colander" value="1.2" />
         <entry key="colorama" value="0.3.7" />
         <entry key="comtypes" value="1.1.2" />
-        <entry key="conda" value="4.0.7" />
+        <entry key="conda" value="4.0.8" />
         <entry key="conda-api" value="1.1.0" />
         <entry key="conda-build" value="1.20.3" />
         <entry key="conda-env" value="2.4.5" />
@@ -134,7 +134,7 @@
         <entry key="feedparser" value="5.2.1" />
         <entry key="fiona" value="1.6.0" />
         <entry key="flake8" value="2.5.1" />
-        <entry key="flask" value="0.10.1" />
+        <entry key="flask" value="0.11" />
         <entry key="flask-cors" value="2.1.2" />
         <entry key="flask-login" value="0.2.11" />
         <entry key="flask-wtf" value="0.11" />
@@ -324,7 +324,7 @@
         <entry key="pickleshare" value="0.7.2" />
         <entry key="pil" value="1.1.7" />
         <entry key="pillow" value="3.2.0" />
-        <entry key="pip" value="8.1.1" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pivottablejs" value="0.1.0" />
         <entry key="pkgconfig" value="1.1.0" />
         <entry key="plac" value="0.9.1" />
@@ -354,7 +354,7 @@
         <entry key="pyodbc" value="3.0.10" />
         <entry key="pyopengl" value="3.1.1a1" />
         <entry key="pyopengl-accelerate" value="3.1.1a1" />
-        <entry key="pyopenssl" value="0.15.1" />
+        <entry key="pyopenssl" value="0.16.0" />
         <entry key="pyparsing" value="2.1.4" />
         <entry key="pyproj" value="1.9.4" />
         <entry key="pyqt" value="4.11.4" />
@@ -398,7 +398,7 @@
         <entry key="requests" value="2.10.0" />
         <entry key="requests-file" value="1.4" />
         <entry key="requests-kerberos" value="0.8.0" />
-        <entry key="rope" value="0.9.4" />
+        <entry key="rope" value="0.10.3" />
         <entry key="routes" value="2.2" />
         <entry key="ruamel_yaml" value="0.11.7" />
         <entry key="runipy" value="0.1.3" />
@@ -415,7 +415,7 @@
         <entry key="semantic_version" value="2.5.0" />
         <entry key="serf" value="1.3.8" />
         <entry key="service_identity" value="16.0.0" />
-        <entry key="setuptools" value="21.2.1" />
+        <entry key="setuptools" value="22.0.5" />
         <entry key="setuptools_scm" value="1.9.0" />
         <entry key="simplegeneric" value="0.8.1" />
         <entry key="simplejson" value="3.8.2" />
@@ -485,7 +485,7 @@
         <entry key="xarray" value="0.7.2" />
         <entry key="xerces-c" value="3.1.2" />
         <entry key="xlrd" value="1.0.0" />
-        <entry key="xlsxwriter" value="0.8.7" />
+        <entry key="xlsxwriter" value="0.8.9" />
         <entry key="xlutils" value="1.7.1" />
         <entry key="xlwings" value="0.7.2" />
         <entry key="xlwt" value="1.1.1" />
@@ -1207,6 +1207,7 @@
               <option value="2.19" />
               <option value="2.16" />
               <option value="2.22" />
+              <option value="2.24" />
             </list>
           </value>
         </entry>
@@ -1444,6 +1445,7 @@
               <option value="4.0.5" />
               <option value="4.0.6" />
               <option value="4.0.7" />
+              <option value="4.0.8" />
             </list>
           </value>
         </entry>
@@ -2088,6 +2090,7 @@
             <list>
               <option value="0.10.1" />
               <option value="0.9" />
+              <option value="0.11" />
             </list>
           </value>
         </entry>
@@ -4022,6 +4025,7 @@
               <option value="1.5" />
               <option value="8.1.0" />
               <option value="8.1.1" />
+              <option value="8.1.2" />
             </list>
           </value>
         </entry>
@@ -4326,6 +4330,7 @@
             <list>
               <option value="0.15.1" />
               <option value="0.14" />
+              <option value="0.16.0" />
             </list>
           </value>
         </entry>
@@ -4775,6 +4780,7 @@
           <value>
             <list>
               <option value="0.9.4" />
+              <option value="0.10.3" />
             </list>
           </value>
         </entry>
@@ -4991,6 +4997,7 @@
               <option value="20.7.0" />
               <option value="20.6.7" />
               <option value="21.2.1" />
+              <option value="22.0.5" />
             </list>
           </value>
         </entry>
@@ -5686,6 +5693,7 @@
               <option value="0.8.5" />
               <option value="0.8.6" />
               <option value="0.8.7" />
+              <option value="0.8.9" />
             </list>
           </value>
         </entry>
@@ -5818,6 +5826,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1465158255238" />
+    <option name="LAST_TIME_CHECKED" value="1465283626404" />
   </component>
 </application>
