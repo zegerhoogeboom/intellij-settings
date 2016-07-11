@@ -23,6 +23,10 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -108,6 +112,7 @@
   <action id="ShelvedChanges.Diff" />
   <action id="ShowContent" />
   <action id="SmartStepInto" />
+  <action id="StepOut" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
