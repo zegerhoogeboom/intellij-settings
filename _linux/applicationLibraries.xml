@@ -14,11 +14,6 @@
     </library>
     <library name="Python 2.7.11+ (/usr/bin/python2.7) interpreter library">
       <CLASSES>
-        <root url="file:///usr/local/lib/python2.7/dist-packages/matplotlib-2.0.0b1-py2.7-linux-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/pyparsing-2.1.5-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/cycler-0.10.0-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/pytz-2016.4-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/python_dateutil-2.5.3-py2.7.egg!/" />
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
@@ -33,11 +28,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/lib/python2.7/dist-packages/matplotlib-2.0.0b1-py2.7-linux-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/pyparsing-2.1.5-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/cycler-0.10.0-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/pytz-2016.4-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/dist-packages/python_dateutil-2.5.3-py2.7.egg!/" />
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
