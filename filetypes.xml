@@ -8,6 +8,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="y" type="PLAIN_TEXT" />
