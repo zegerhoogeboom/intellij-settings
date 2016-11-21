@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
