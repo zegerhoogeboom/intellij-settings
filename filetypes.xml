@@ -15,6 +15,7 @@
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="y" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="header" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="mst" type="Handlebars/Mustache" />
     </extensionMap>
