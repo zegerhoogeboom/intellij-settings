@@ -6,6 +6,7 @@
       <mapping pattern="lana-performance" type="JavaScript" />
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
+      <mapping ext="webm" type="Native" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
