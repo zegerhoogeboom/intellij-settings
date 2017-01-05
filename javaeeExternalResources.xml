@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.ehcache.org/ehcache.xsd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/f9f43897_ehcache.xsd" />
+    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/631eabe6_XMLSchema-instance.xml" />
+  </component>
+</application>
