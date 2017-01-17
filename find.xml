@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'lana-webfrontend'" />
-    <option name="defaultScopeName" value="Project 'lana-webfrontend'" />
+    <option name="customScope" value="File '[lana-webfrontend] - .../app/javascripts/services/LogService.ts'" />
+    <option name="defaultScopeName" value="File '[lana-webfrontend] - .../app/javascripts/services/LogService.ts'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'lana-webfrontend'" />
+    <option name="SEARCH_SCOPE" value="File '[lana-webfrontend] - .../app/javascripts/services/LogService.ts'" />
     <option name="FILE_MASK" value="*.tex" />
     <recentFileMasks>
       <mask>*.properties</mask>
