@@ -1,27 +1,28 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="performance" type="JavaScript" />
       <mapping pattern="lana" type="JavaScript" />
-      <mapping pattern="lana-performance" type="JavaScript" />
+      <mapping pattern="performance" type="JavaScript" />
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
+      <mapping pattern="lana-performance" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
       <mapping ext="webm" type="Native" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
-      <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="ssm" type="PLAIN_TEXT" />
+      <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="y" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="header" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="coco" type="Python" />
       <mapping ext="mst" type="Handlebars/Mustache" />
     </extensionMap>
   </component>
