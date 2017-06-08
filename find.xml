@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[lana-webfrontend] - .../app/javascripts/services/LogService.ts'" />
-    <option name="defaultScopeName" value="File '[lana-webfrontend] - .../app/javascripts/services/LogService.ts'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[lana-webfrontend] - .../app/javascripts/services/LogService.ts'" />
-    <option name="FILE_MASK" value="*.tex" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
