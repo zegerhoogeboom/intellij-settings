@@ -5,6 +5,7 @@
       <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-build" type="JavaScript" />
       <mapping pattern="lana-performance" type="JavaScript" />
+      <mapping pattern="lana-update-secrets" type="JavaScript" />
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
       <mapping ext="webm" type="Native" />
