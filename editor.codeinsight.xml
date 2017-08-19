@@ -1,5 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="com.incentro.ips.api.Util.GCSUtil.copy" />
-  </component>
-</application>
