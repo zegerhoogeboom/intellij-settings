@@ -2,10 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -16,13 +17,15 @@
       <mask>*.tex</mask>
       <mask>*.te</mask>
       <mask>*.tx</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.h</mask>
+      <mask>*.t</mask>
+      <mask>*.html</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
