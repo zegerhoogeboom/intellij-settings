@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="51335da3-b3e9-42fb-91b0-ec8c544389aa" name="gold" url="http://gold.liacs.nl">
+        <fileTransfer host="gold.liacs.nl" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/dshome/s1968130" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
