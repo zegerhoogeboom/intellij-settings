@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="yarn" />
       <option name="PARAMETERS" value="build" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/freelance/exchanges_ts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/user/Projects/freelance/exchanges_ts" />
     </exec>
   </tool>
 </toolSet>
