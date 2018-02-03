@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="audit" type="Dockerfile" />
       <mapping ext="phpredisadmin" type="Dockerfile" />
+      <mapping ext="devsockets" type="Dockerfile" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping pattern="performance" type="JavaScript" />
       <mapping pattern="lana" type="JavaScript" />
@@ -11,6 +13,7 @@
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
       <mapping ext="webm" type="Native" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
@@ -26,6 +29,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ssm" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
