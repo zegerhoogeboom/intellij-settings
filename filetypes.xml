@@ -6,8 +6,8 @@
       <mapping ext="devsockets" type="Dockerfile" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping pattern="performance" type="JavaScript" />
-      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-performance" type="JavaScript" />
+      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-update-secrets" type="JavaScript" />
       <mapping pattern="lana-build" type="JavaScript" />
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
@@ -27,7 +27,6 @@
       <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="sty" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ssm" type="PLAIN_TEXT" />
