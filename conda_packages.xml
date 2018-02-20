@@ -4177,19 +4177,19 @@
         <entry key="py">
           <value>
             <list>
-              <option value="1.4.23" />
-              <option value="1.4.24" />
-              <option value="1.4.20" />
-              <option value="1.4.17" />
-              <option value="1.4.30" />
-              <option value="1.4.22" />
-              <option value="1.4.27" />
-              <option value="1.4.19" />
               <option value="1.4.31" />
-              <option value="1.4.25" />
+              <option value="1.4.30" />
+              <option value="1.4.27" />
               <option value="1.4.26" />
-              <option value="1.4.12" />
+              <option value="1.4.25" />
+              <option value="1.4.24" />
+              <option value="1.4.23" />
+              <option value="1.4.22" />
+              <option value="1.4.20" />
+              <option value="1.4.19" />
+              <option value="1.4.17" />
               <option value="1.4.14" />
+              <option value="1.4.12" />
             </list>
           </value>
         </entry>
