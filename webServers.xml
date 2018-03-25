@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="46abb35b-aeed-4eac-82ae-6475066f8fea" name="Datalink" url="http://35.195.74.195/">
-        <fileTransfer host="35.195.74.195" port="22" rootFolder="/home/zeger_hoogeboom" accessType="SFTP" authAgent="true">
+        <fileTransfer host="35.205.96.175" port="22" rootFolder="/home/zeger_hoogeboom" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
