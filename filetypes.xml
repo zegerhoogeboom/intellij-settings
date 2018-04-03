@@ -15,11 +15,12 @@
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="audit" type="Dockerfile" />
       <mapping ext="devsockets" type="Dockerfile" />
+      <mapping ext="md" type="ECMAScript 6" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping pattern="performance" type="JavaScript" />
+      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-build" type="JavaScript" />
       <mapping pattern="lana-performance" type="JavaScript" />
-      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-update-secrets" type="JavaScript" />
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
