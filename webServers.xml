@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="51335da3-b3e9-42fb-91b0-ec8c544389aa" name="SpotSwapTrader" url="http://35.195.74.195/">
-        <fileTransfer host="35.195.246.45" port="22" rootFolder="/home/zeger_hoogeboom" accessType="SFTP" authAgent="true">
+        <fileTransfer host="35.195.62.137" port="22" rootFolder="/home/zeger_hoogeboom" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
