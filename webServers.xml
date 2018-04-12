@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="7d89d5f4-d3c3-4069-999f-c023c1259a33" name="TraderHetzner" url="http://35.195.74.195/">
+        <fileTransfer host="78.47.228.127" port="22" rootFolder="/home/trader" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
