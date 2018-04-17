@@ -21,9 +21,9 @@
       <mapping ext="md" type="ECMAScript 6" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping pattern="performance" type="JavaScript" />
-      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-build" type="JavaScript" />
       <mapping pattern="lana-performance" type="JavaScript" />
+      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-update-secrets" type="JavaScript" />
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
@@ -49,7 +49,6 @@
       <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
-      <mapping ext="hcl" type="PLAIN_TEXT" />
       <mapping ext="sty" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
