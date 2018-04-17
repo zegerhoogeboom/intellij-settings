@@ -60,6 +60,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="ssm" type="PLAIN_TEXT" />
+      <mapping ext="ctmpl" type="YAML" />
       <mapping ext="coco" type="Python" />
       <mapping pattern="Assignment5_trainaccuracy,py" type="Python" />
     </extensionMap>
