@@ -21,9 +21,9 @@
       <mapping ext="md" type="ECMAScript 6" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping pattern="performance" type="JavaScript" />
+      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-build" type="JavaScript" />
       <mapping pattern="lana-performance" type="JavaScript" />
-      <mapping pattern="lana" type="JavaScript" />
       <mapping pattern="lana-update-secrets" type="JavaScript" />
       <mapping pattern="lana-run-performance-tests" type="JavaScript" />
       <mapping pattern="run-performance-tests" type="JavaScript" />
@@ -31,6 +31,7 @@
       <mapping pattern="migrate" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="wait-for" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
