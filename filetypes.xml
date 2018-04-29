@@ -1,28 +1,54 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gyp" type="JSON" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="base-alpine" type="Dockerfile" />
+      <mapping ext="phpredisadmin" type="Dockerfile" />
+      <mapping ext="base" type="Dockerfile" />
+      <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="audit" type="Dockerfile" />
+      <mapping ext="postgres" type="Dockerfile" />
+      <mapping ext="devsockets" type="Dockerfile" />
+      <mapping ext="nginx" type="Dockerfile" />
+      <mapping ext="md" type="ECMAScript 6" />
+      <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping ext="webm" type="Native" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="migrate" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="wait-for" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="migrate" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="header" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
-      <mapping ext="sty" type="PLAIN_TEXT" />
-      <mapping ext="ssm" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="PLAIN_TEXT" />
+      <mapping ext="graph" type="PLAIN_TEXT" />
+      <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="sty" type="PLAIN_TEXT" />
+      <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
@@ -31,31 +57,13 @@
       <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="i" type="PLAIN_TEXT" />
       <mapping ext="header" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="Assignment5_trainaccuracy,py" type="Python" />
+      <mapping ext="ctmpl" type="YAML" />
       <mapping ext="coco" type="Python" />
-      <mapping ext="audit" type="Dockerfile" />
-      <mapping ext="devsockets" type="Dockerfile" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="mst" type="Handlebars/Mustache" />
-      <mapping ext="phpredisadmin" type="Dockerfile" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="lana" type="JavaScript" />
-      <mapping pattern="lana-build" type="JavaScript" />
-      <mapping pattern="lana-performance" type="JavaScript" />
-      <mapping pattern="lana-run-performance-tests" type="JavaScript" />
-      <mapping pattern="lana-update-secrets" type="JavaScript" />
-      <mapping pattern="performance" type="JavaScript" />
-      <mapping pattern="run-performance-tests" type="JavaScript" />
+      <mapping pattern="Assignment5_trainaccuracy,py" type="Python" />
     </extensionMap>
   </component>
 </application>
