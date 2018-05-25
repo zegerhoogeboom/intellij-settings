@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1cb8d5b9-ea78-49cf-aa69-56b4f257866f" name="Staging" url="http://35.195.74.195/">
+        <fileTransfer host="195.201.234.202" port="22" rootFolder="/home/staging" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
