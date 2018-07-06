@@ -1,4 +1,9 @@
 <application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="DBNavigator.DefaultProject.Settings">
     <connections />
     <browser-settings>
@@ -136,6 +141,7 @@
           <content-type name="JSPx" enabled="true" />
           <content-type name="ASP" enabled="true" />
           <content-type name="YAML" enabled="true" />
+          <content-type name="Bash" enabled="true" />
         </content-types>
       </qualified-text-editor>
       <record-navigation>
