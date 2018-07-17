@@ -51,6 +51,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="y" type="PLAIN_TEXT" />
+      <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="iql" type="PLAIN_TEXT" />
       <mapping ext="i" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
