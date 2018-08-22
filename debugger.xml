@@ -73,6 +73,8 @@
     <data-views>
       <option name="autoExpressions" value="false" />
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
   </component>
 </application>
