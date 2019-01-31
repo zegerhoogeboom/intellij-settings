@@ -48,6 +48,7 @@
       <mapping ext="sty" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="job" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="y" type="PLAIN_TEXT" />
