@@ -21,6 +21,7 @@
       <mapping ext="devsockets" type="Dockerfile" />
       <mapping ext="profit" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
+      <mapping ext="fixapi" type="Dockerfile" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping ext="webm" type="Native" />
       <mapping pattern="migrate" type="PLAIN_TEXT" />
