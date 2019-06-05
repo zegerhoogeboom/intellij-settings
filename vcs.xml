@@ -17,6 +17,6 @@
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Projects/equinoxai" />
   </component>
 </application>
