@@ -53,6 +53,7 @@
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="job" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="y" type="PLAIN_TEXT" />
       <mapping ext="gs" type="PLAIN_TEXT" />
