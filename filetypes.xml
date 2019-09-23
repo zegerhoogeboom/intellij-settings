@@ -9,6 +9,7 @@
       <mapping ext="tensorboard" type="Dockerfile" />
       <mapping ext="audit" type="Dockerfile" />
       <mapping ext="profit" type="Dockerfile" />
+      <mapping ext="backtesting" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="devsockets" type="Dockerfile" />
       <mapping ext="webm" type="Native" />
