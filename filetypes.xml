@@ -13,6 +13,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="base-alpine" type="Dockerfile" />
+      <mapping ext="telegraf" type="Dockerfile" />
       <mapping ext="phpredisadmin" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
