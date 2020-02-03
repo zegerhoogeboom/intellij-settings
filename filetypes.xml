@@ -13,6 +13,7 @@
       <mapping ext="profit" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="devsockets" type="Dockerfile" />
+      <mapping ext="redis" type="Dockerfile" />
       <mapping ext="fix" type="Dockerfile" />
       <mapping ext="webm" type="Native" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
