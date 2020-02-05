@@ -8,11 +8,11 @@
       <mapping ext="audit" type="Dockerfile" />
       <mapping ext="postgres" type="Dockerfile" />
       <mapping ext="devsockets" type="Dockerfile" />
+      <mapping ext="nginx" type="Dockerfile" />
       <mapping ext="base-alpine" type="Dockerfile" />
       <mapping ext="profit" type="Dockerfile" />
       <mapping ext="tensorboard" type="Dockerfile" />
       <mapping ext="fix" type="Dockerfile" />
-      <mapping ext="nginx" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
       <mapping ext="fixapi" type="Dockerfile" />
       <mapping pattern="migrate_staging" type="Handlebars/Mustache" />
