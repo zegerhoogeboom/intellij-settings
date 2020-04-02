@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-nonalpine" type="Dockerfile" />
       <mapping ext="telegraf" type="Dockerfile" />
       <mapping ext="phpredisadmin" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
