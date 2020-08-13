@@ -54,6 +54,7 @@
       <mapping ext="i" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="grafana-staging" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="YAML" />
       <mapping ext="coco" type="Python" />
