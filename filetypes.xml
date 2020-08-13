@@ -41,6 +41,7 @@
       <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="hcl" type="PLAIN_TEXT" />
+      <mapping ext="influxdb-staging" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="sty" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
