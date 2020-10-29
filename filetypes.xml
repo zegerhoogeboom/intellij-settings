@@ -17,8 +17,6 @@
       <mapping ext="nginx" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
       <mapping ext="fixapi" type="Dockerfile" />
-      <mapping pattern="migrate_staging" type="Handlebars/Mustache" />
-      <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping ext="webm" type="Native" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="migrate" type="PLAIN_TEXT" />
@@ -37,6 +35,7 @@
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
@@ -53,12 +52,13 @@
       <mapping ext="iql" type="PLAIN_TEXT" />
       <mapping ext="i" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="grafana-staging" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="ctmpl" type="YAML" />
+      <mapping pattern="Assignment5_trainaccuracy,py" type="Python" />
       <mapping ext="coco" type="Python" />
+      <mapping ext="ctmpl" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
@@ -69,7 +69,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="Assignment5_trainaccuracy,py" type="Python" />
+      <mapping pattern="migrate_staging" type="Handlebars/Mustache" />
     </extensionMap>
   </component>
 </application>
