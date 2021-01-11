@@ -8,6 +8,7 @@
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="audit" type="Dockerfile" />
+      <mapping ext="janus" type="Dockerfile" />
       <mapping ext="postgres" type="Dockerfile" />
       <mapping ext="devsockets" type="Dockerfile" />
       <mapping ext="base-alpine" type="Dockerfile" />
