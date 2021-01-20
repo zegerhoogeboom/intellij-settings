@@ -35,6 +35,7 @@
       <mapping ext="influxdb" type="PLAIN_TEXT" />
       <mapping ext="header" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
