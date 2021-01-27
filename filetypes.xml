@@ -1,64 +1,64 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Dockerfile-nonalpine" type="Dockerfile" />
-      <mapping ext="telegraf" type="Dockerfile" />
-      <mapping ext="phpredisadmin" type="Dockerfile" />
-      <mapping ext="moe" type="Dockerfile" />
-      <mapping ext="base" type="Dockerfile" />
-      <mapping ext="dev" type="Dockerfile" />
-      <mapping ext="audit" type="Dockerfile" />
-      <mapping ext="janus" type="Dockerfile" />
-      <mapping ext="postgres" type="Dockerfile" />
-      <mapping ext="devsockets" type="Dockerfile" />
       <mapping ext="base-alpine" type="Dockerfile" />
       <mapping ext="profit" type="Dockerfile" />
+      <mapping ext="devsockets" type="Dockerfile" />
+      <mapping ext="base" type="Dockerfile" />
       <mapping ext="tensorboard" type="Dockerfile" />
-      <mapping ext="fix" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
+      <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="fix" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
+      <mapping ext="moe" type="Dockerfile" />
+      <mapping ext="postgres" type="Dockerfile" />
+      <mapping ext="phpredisadmin" type="Dockerfile" />
+      <mapping ext="telegraf" type="Dockerfile" />
+      <mapping ext="audit" type="Dockerfile" />
+      <mapping ext="janus" type="Dockerfile" />
       <mapping ext="fixapi" type="Dockerfile" />
       <mapping pattern="migrate_staging" type="Handlebars/Mustache" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping ext="webm" type="Native" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="migrate" type="PLAIN_TEXT" />
       <mapping pattern=".deployignore" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="wait-for" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="migrate" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
       <mapping ext="influxdb" type="PLAIN_TEXT" />
-      <mapping ext="header" type="PLAIN_TEXT" />
-      <mapping ext="lua" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="com" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
-      <mapping ext="jcfg" type="PLAIN_TEXT" />
+      <mapping ext="influxdb-staging" type="PLAIN_TEXT" />
+      <mapping ext="job" type="PLAIN_TEXT" />
       <mapping ext="bpmn" type="PLAIN_TEXT" />
       <mapping ext="graph" type="PLAIN_TEXT" />
-      <mapping ext="pickle" type="PLAIN_TEXT" />
-      <mapping ext="hcl" type="PLAIN_TEXT" />
-      <mapping ext="influxdb-staging" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="sty" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
-      <mapping ext="job" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
-      <mapping ext="jmx" type="PLAIN_TEXT" />
-      <mapping ext="y" type="PLAIN_TEXT" />
-      <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="iql" type="PLAIN_TEXT" />
-      <mapping ext="i" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="jcfg" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="grafana-staging" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="header" type="PLAIN_TEXT" />
+      <mapping ext="hcl" type="PLAIN_TEXT" />
+      <mapping ext="gs" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="sty" type="PLAIN_TEXT" />
+      <mapping ext="y" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="i" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="YAML" />
       <mapping ext="coco" type="Python" />
       <mapping ext="fnc" type="DBN-PSQL" />
