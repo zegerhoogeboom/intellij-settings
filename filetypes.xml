@@ -15,6 +15,7 @@
       <mapping ext="postgres" type="Dockerfile" />
       <mapping ext="phpredisadmin" type="Dockerfile" />
       <mapping ext="telegraf" type="Dockerfile" />
+      <mapping ext="influxdb-restore" type="Dockerfile" />
       <mapping ext="audit" type="Dockerfile" />
       <mapping ext="janus" type="Dockerfile" />
       <mapping ext="fixapi" type="Dockerfile" />
