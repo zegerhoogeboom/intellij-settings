@@ -5,6 +5,7 @@
       <mapping ext="base-alpine" type="Dockerfile" />
       <mapping ext="profit" type="Dockerfile" />
       <mapping ext="devsockets" type="Dockerfile" />
+      <mapping ext="fix-node-v12" type="Dockerfile" />
       <mapping ext="base" type="Dockerfile" />
       <mapping ext="tensorboard" type="Dockerfile" />
       <mapping ext="nginx" type="Dockerfile" />
