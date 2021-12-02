@@ -14,6 +14,7 @@
       <mapping ext="fix" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
       <mapping ext="moe" type="Dockerfile" />
+      <mapping ext="squid" type="Dockerfile" />
       <mapping ext="postgres" type="Dockerfile" />
       <mapping ext="phpredisadmin" type="Dockerfile" />
       <mapping ext="traefik" type="Dockerfile" />
