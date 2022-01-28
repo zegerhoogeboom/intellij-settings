@@ -11,6 +11,7 @@
       <mapping ext="nginx" type="Dockerfile" />
       <mapping ext="nodered" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="nodered-aws" type="Dockerfile" />
       <mapping ext="fix" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
       <mapping ext="moe" type="Dockerfile" />
