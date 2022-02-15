@@ -11,8 +11,8 @@
       <mapping ext="nginx" type="Dockerfile" />
       <mapping ext="nodered" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
-      <mapping ext="nodered-aws" type="Dockerfile" />
       <mapping ext="fix" type="Dockerfile" />
+      <mapping ext="nodered-aws" type="Dockerfile" />
       <mapping ext="redis" type="Dockerfile" />
       <mapping ext="moe" type="Dockerfile" />
       <mapping ext="squid" type="Dockerfile" />
@@ -45,8 +45,8 @@
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="iql" type="PLAIN_TEXT" />
-      <mapping ext="nodered-prod" type="PLAIN_TEXT" />
       <mapping ext="jcfg" type="PLAIN_TEXT" />
+      <mapping ext="nodered-prod" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
