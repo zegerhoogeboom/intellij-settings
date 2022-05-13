@@ -27,16 +27,16 @@
       <mapping pattern="migrate_staging" type="Handlebars/Mustache" />
       <mapping ext="mst" type="Handlebars/Mustache" />
       <mapping ext="webm" type="Native" />
-      <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="wait-for" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="migrate" type="PLAIN_TEXT" />
+      <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".lana-license.lic" type="PLAIN_TEXT" />
+      <mapping pattern="wait-for" type="PLAIN_TEXT" />
+      <mapping pattern="migrate" type="PLAIN_TEXT" />
       <mapping ext="influxdb" type="PLAIN_TEXT" />
       <mapping ext="influxdb-staging" type="PLAIN_TEXT" />
       <mapping ext="job" type="PLAIN_TEXT" />
@@ -53,8 +53,8 @@
       <mapping ext="influxdb-archival-2" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="grafana-staging" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
