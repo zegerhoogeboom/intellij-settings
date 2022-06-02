@@ -53,6 +53,7 @@
       <mapping ext="influxdb-archival-2" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="PLAIN_TEXT" />
       <mapping ext="grafana-staging" type="PLAIN_TEXT" />
+      <mapping ext="sql" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
