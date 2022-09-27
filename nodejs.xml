@@ -4,7 +4,7 @@
       <version-cache version="16.14.0" last-modified="1644421353000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="12.16.1" last-modified="1659534069826" />
+      <version-cache version="10.16.3" last-modified="1664259358655" />
     </local-interpreter>
   </component>
   <component name="NodeJsRemoteInterpreters">
