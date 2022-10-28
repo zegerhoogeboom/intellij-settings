@@ -3,9 +3,7 @@
     <local-interpreter path="/usr/bin/node">
       <version-cache version="16.14.0" last-modified="1644421353000" />
     </local-interpreter>
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="10.16.3" last-modified="1664259358655" />
-    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node" />
   </component>
   <component name="NodeJsRemoteInterpreters">
     <interpreter node-remote-interpreter="sshConfig://root@159.69.240.26:22 key/usr/local/bin/node" INTERPRETER_PATH="/usr/local/bin/node" HELPERS_PATH="/root/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="16.17.0" OUTDATED_ID="" SSH_CONFIG_ID="a1d4a44b-942f-4ffa-88d2-5e3a74f1348c" SSH_CONFIG_NAME="root@159.69.240.26:22 key" SSH_CREDENTIALS_ID="sshConfig://root@159.69.240.26:22 key" />
