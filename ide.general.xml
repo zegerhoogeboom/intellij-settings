@@ -10,4 +10,11 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="webDeployment.default.server.widget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
